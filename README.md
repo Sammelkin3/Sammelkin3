@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammelkin3" alt="sammelkin3" /></a> </p>
 
-- 🔭 I’m currently Fresher on 2024 [Amazon product-price Scrapper in Python](https://github.com/Sammelkin3/amazon-price-scrapping-using-python)
+- 🔭 I’m currently Fresher on 2024.
 
-- 👯 I’m looking to collaborate to SQL, Core Python, Excel, Power BI(Data Visualization) [Data Cleaning in SQL](https://github.com/Sammelkin3/data-cleaning-using-sql/blob/main/Data%20Clean.sql)
+- 👯 I’m looking to collaborate to SQL, Core Python, Excel, Power BI(Data Visualization).
 
 - 👨‍💻 All of my projects are available at [file:///C:/Users/SAM%20MELKIN/Downloads/port/index.html](file:///C:/Users/SAM%20MELKIN/Downloads/port/index.html)
 
