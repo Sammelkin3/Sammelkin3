@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sammelkin1@gmail.com**
 
-- 📄 Know about my experiences https://app.luminpdf.com/viewer/66976f767bc36988712c3e5a 
+- 📄 Know about my Resume -> https://app.luminpdf.com/viewer/66976f767bc36988712c3e5a 
 
 - ⚡ Fun fact **I am a Cricketer**
 
