@@ -11,8 +11,7 @@
 
 - 👯 I’m looking to collaborate to SQL, Core Python, Excel, Power BI(Data Visualization).
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/SAM%20MELKIN/Downloads/port/index.html](file:///C:/Users/SAM%20MELKIN/Downloads/port/index.html)
-
+- 👨‍💻 All of my projects are available at my GitHub page.
 - 📫 How to reach me **sammelkin1@gmail.com**
 
 - 📄 Know about my Resume -> https://app.luminpdf.com/viewer/66976f767bc36988712c3e5a 
