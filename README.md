@@ -7,14 +7,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammelkin3" alt="sammelkin3" /></a> </p>
 
-- 🔭 I’m currently Fresher on 2024.
+- 🔭 I’m currently pursuing MCA 2025 to 2027 Batch.
 
-- 👯 I’m looking to collaborate to SQL, Core Python, Excel, Power BI(Data Visualization).
+- 👯 I’m looking to collaborate to Java, MySQL, System design, Data Structures and Algorithm, and UI Design.
 
 - 👨‍💻 All of my projects are available at my GitHub page.
 - 📫 How to reach me **sammelkin1@gmail.com**
 
-- 📄 Know about my Resume -> https://app.luminpdf.com/viewer/66976f767bc36988712c3e5a 
+- - 📄 [View My Resume](https://1drv.ms/w/c/ea208a9eaafde80f/IQCz8mnJMUWeQ7soHf9eNXIDAYogPviH0J3We1fQhAAq50?e=n6cmA2)
 
 - ⚡ Fun fact **I am a Cricketer**
 
